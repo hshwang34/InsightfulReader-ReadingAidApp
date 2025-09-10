@@ -1,0 +1,122 @@
+[
+    {
+        "word": "parents",
+        "definition": "A mother or father.",
+        "synonyms": [ "Guardian", "Elder" ],
+        "phonetic": "ˈpɛːr(ə)nts",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "Many children rely on their parents for guidance."
+    },
+    {
+        "word": "tried",
+        "definition": "Make an attempt or effort to do something.",
+        "synonyms": [ "Attempted", "Endeavored" ],
+        "phonetic": "trīd",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "She tried her best in the competition."
+    },
+    {
+        "word": "pretend",
+        "definition": "Speak and act so as to make it appear something is the case.",
+        "synonyms": [ "Feign", "Simulate" ],
+        "phonetic": "prɪˈtɛnd",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "The kids love to pretend they are superheroes."
+    },
+    {
+        "word": "going",
+        "definition": "Moving or operating.",
+        "synonyms": [ "Functioning", "Operating" ],
+        "phonetic": "ˈɡoʊ.ɪŋ",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "How's everything going at your new job?"
+    },
+    {
+        "word": "camp",
+        "definition": "A place with temporary accommodations of huts, tents, or other structures.",
+        "synonyms": [ "Encampment", "Base" ],
+        "phonetic": "kamp",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "They set up a camp in the woods."
+    },
+    {
+        "word": "rich",
+        "definition": "Having a great deal of money or assets; wealthy.",
+        "synonyms": [ "Wealthy", "Affluent" ],
+        "phonetic": "rɪtʃ",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "He became rich after starting his own company."
+    },
+    {
+        "word": "younger",
+        "definition": "Having lived or existed for a shorter time; junior.",
+        "synonyms": [ "Junior", "Less old" ],
+        "phonetic": "ˈjʌŋ.ɡər",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "She is five years younger than me."
+    },
+    {
+        "word": "play",
+        "definition": "Engage in an activity for enjoyment and recreation.",
+        "synonyms": [ "Engage", "Partake" ],
+        "phonetic": "pleɪ",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "Children love to play outside."
+    },
+    {
+        "word": "stuffed",
+        "definition": "Fill (a receptacle or space) tightly with something.",
+        "synonyms": [ "Packed", "Loaded" ],
+        "phonetic": "stʌft",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "She stuffed the bag with clothes."
+    },
+    {
+        "word": "friends",
+        "definition": "A person whom one knows and has a bond of mutual affection.",
+        "synonyms": [ "Companion", "Pal" ],
+        "phonetic": "frendz",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "They've been friends since kindergarten."
+    },
+    {
+        "word": "overweight",
+        "definition": "Above a weight considered normal or desirable.",
+        "synonyms": [ "Heavy", "Obese" ],
+        "phonetic": "ˌoʊ.vərˈweɪt",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "He is slightly overweight for his age."
+    },
+    {
+        "word": "animals",
+        "definition": "A living organism that feeds on organic matter.",
+        "synonyms": [ "Creatures", "Beasts" ],
+        "phonetic": "ˈæn.ɪ.məl",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "The forest is home to many wild animals."
+    },
+    {
+        "word": "games",
+        "definition": "A form of play or sport with rules.",
+        "synonyms": [ "Sport", "Pastime" ],
+        "phonetic": "geɪmz",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "She enjoys playing board games."
+    },
+    {
+        "word": "soccer",
+        "definition": "A team sport in which players try to get a ball into a goal.",
+        "synonyms": [ "Football", "Footie" ],
+        "phonetic": "ˈsɒk.ər",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "Soccer is popular worldwide."
+    },
+    {
+        "word": "marble",
+        "definition": "A small ball of colored glass or similar material used as a toy.",
+        "synonyms": [ "Sphere", "Orb" ],
+        "phonetic": "ˈmɑːr.bəl",
+        "imageURL": "Assets/Resources/Images/placeholder.png",
+        "example": "Kids used to play games with marbles."
+    }
+]
